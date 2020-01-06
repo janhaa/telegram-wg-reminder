@@ -1,0 +1,23 @@
+{
+  "name": "telegram-wg-reminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janhaa/telegram-wg-reminder.git"
+  },
+  "author": "Jan Häusler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janhaa/telegram-wg-reminder/issues"
+  },
+  "homepage": "https://github.com/janhaa/telegram-wg-reminder#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.35.0"
+  }
+}
